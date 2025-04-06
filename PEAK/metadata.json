@@ -1,0 +1,12 @@
+{
+  "name": "MountainToken8000",
+  "symbol": "PEAK8000",
+  "description": "Токен для алпинюг-криптанов. Фиксированный supply: 8000",
+  "image": "https://imgur.com/a/p2I7ZJC",
+  "external_url": "https://ваш-сайт.com",
+  "attributes": [
+    {"trait_type": "Supply", "value": "Fixed"},
+    {"trait_type": "Blockchain", "value": "Solana"}
+  ]
+}
+
